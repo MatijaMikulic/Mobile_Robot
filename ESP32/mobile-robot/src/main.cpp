@@ -251,8 +251,8 @@ void loop() {
     control_needed = false;
   }
 
-  // For rotation in place
-  if (isRotateNeeded){
+  // For rotation 
+  if (isRotateNeeded || isAngleCorrectionNeeded){
     controlRotate();
     isRotateNeeded = false;
   }
