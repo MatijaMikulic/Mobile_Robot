@@ -1,0 +1,1312 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+[  7687][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -0.95       nan
+[  7798][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -55.05       nan
+[  7902][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2763.65       nan
+[  8007][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13461.55       nan
+[  8112][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7669.85       nan
+[  8216][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5872.26       nan
+[  8322][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6008.55       nan
+[  8430][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13739.45       nan
+[  8534][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3013.10       nan
+[  8639][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7190.89       nan
+[  8742][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19544.22       nan
+[  8848][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5552.43       nan
+[  8952][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8287.49       nan
+[  9056][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -65.78       nan
+[  9164][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3372.26       nan
+[  9268][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7143.17       nan
+[  9373][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16837.68       nan
+[  9478][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15391.75       nan
+[  9583][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15055.17       nan
+[  9689][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16383.67       nan
+[  9796][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10059.02       nan
+[  9900][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18871.39       nan
+[ 10005][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8228.27       nan
+[ 10109][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17127.16       nan
+[ 10214][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11391.68       nan
+[ 10320][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12782.44       nan
+[ 10427][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9989.44       nan
+[ 10531][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14924.33       nan
+[ 10635][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8962.41       nan
+[ 10739][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17928.86       nan
+[ 10843][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16026.11       nan
+[ 10947][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10197.83       nan
+[ 11054][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6324.84       nan
+[ 11158][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11260.28       nan
+[ 11263][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5329.20       nan
+[ 11368][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16045.30       nan
+[ 11473][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11286.32       nan
+[ 11578][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6806.15       nan
+[ 11684][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18141.38       nan
+[ 11787][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7660.48       nan
+[ 11891][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5340.74       nan
+[ 11994][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16700.03       nan
+[ 12099][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7583.83       nan
+[ 12204][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -992.63       nan
+[ 12309][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15105.13       nan
+[ 12416][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19217.82       nan
+[ 12520][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7458.41       nan
+[ 12625][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14298.91       nan
+[ 12729][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14327.08       nan
+[ 12834][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15924.96       nan
+[ 12938][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4460.26       nan
+[ 13046][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7596.70       nan
+[ 13151][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1722.73       nan
+[ 13255][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15678.37       nan
+[ 13359][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10893.30       nan
+[ 13463][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4933.09       nan
+[ 13568][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13996.72       nan
+[ 13674][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17606.26       nan
+[ 13779][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18147.22       nan
+[ 13884][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7991.85       nan
+[ 13989][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3716.54       nan
+[ 14094][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6251.20       nan
+[ 14199][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7082.74       nan
+[ 14306][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13409.61       nan
+[ 14411][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4723.64       nan
+[ 14515][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2116.20       nan
+[ 14620][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17576.57       nan
+[ 14725][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16463.17       nan
+[ 14828][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14568.60       nan
+[ 14934][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9204.37       nan
+[ 15041][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11233.24       nan
+[ 15146][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3795.53       nan
+[ 15251][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10732.11       nan
+[ 15356][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16210.02       nan
+[ 15461][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -209.19       nan
+[ 15567][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11506.97       nan
+[ 15672][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19321.96       nan
+[ 15777][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13365.56       nan
+[ 15880][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2225.17       nan
+[ 15985][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3337.75       nan
+[ 16089][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5185.45       nan
+[ 16193][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7891.56       nan
+[ 16298][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18448.24       nan
+[ 16403][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4646.10       nan
+[ 16507][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18138.26       nan
+[ 16612][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7483.33       nan
+[ 16716][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15712.50       nan
+[ 16821][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12829.03       nan
+[ 16928][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12632.05       nan
+[ 17033][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1458.87       nan
+[ 17136][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -711.27       nan
+[ 17239][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19565.72       nan
+[ 17344][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6772.20       nan
+[ 17449][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16215.42       nan
+[ 17556][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -515.41       nan
+[ 17661][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8456.13       nan
+[ 17766][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9631.62       nan
+[ 17871][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15047.76       nan
+[ 17976][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15963.35       nan
+[ 18082][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6637.54       nan
+[ 18187][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8577.03       nan
+[ 18292][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16489.48       nan
+[ 18397][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16060.89       nan
+[ 18502][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12170.50       nan
+[ 18607][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16119.17       nan
+[ 18712][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15476.05       nan
+[ 18820][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19837.12       nan
+[ 18923][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1746.36       nan
+[ 19027][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17018.65       nan
+[ 19132][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5236.70       nan
+[ 19238][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10798.13       nan
+[ 19341][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19955.38       nan
+[ 19449][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8454.50       nan
+[ 19553][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9539.04       nan
+[ 19659][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9796.84       nan
+[ 19764][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3999.82       nan
+[ 19868][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1899.71       nan
+[ 19973][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5297.00       nan
+[ 20079][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14218.51       nan
+[ 20184][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9766.66       nan
+[ 20288][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2287.44       nan
+[ 20392][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6869.95       nan
+[ 20497][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1339.86       nan
+[ 20602][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14380.78       nan
+[ 20707][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18971.10       nan
+[ 20815][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13883.93       nan
+[ 20918][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11208.66       nan
+[ 21023][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2401.05       nan
+[ 21128][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13314.14       nan
+[ 21233][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19728.88       nan
+[ 21337][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16026.89       nan
+[ 21445][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10241.71       nan
+[ 21548][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8813.83       nan
+[ 21653][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9501.27       nan
+[ 21758][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7654.01       nan
+[ 21863][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4973.72       nan
+[ 21967][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16301.85       nan
+[ 22074][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5418.39       nan
+[ 22178][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -683.98       nan
+[ 22283][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18017.90       nan
+[ 22388][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -656.56       nan
+[ 22492][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16462.73       nan
+[ 22597][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14543.56       nan
+[ 22703][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7784.19       nan
+[ 22808][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12357.55       nan
+[ 22913][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6308.50       nan
+[ 23019][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10333.30       nan
+[ 23124][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14009.12       nan
+[ 23228][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18309.64       nan
+[ 23334][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17204.87       nan
+[ 23439][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15799.77       nan
+[ 23544][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17779.43       nan
+[ 23649][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7549.51       nan
+[ 23754][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19466.86       nan
+[ 23859][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1165.21       nan
+[ 23965][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4474.11       nan
+[ 24068][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8382.44       nan
+[ 24171][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5451.59       nan
+[ 24275][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+[ 24277][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2567.34       nan
+[ 24382][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+[ 24383][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2326.35       nan
+[ 24497][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+[ 24500][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9077.02       nan
+[ 24606][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+[ 24607][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4009.93       nan
+[ 24721][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+[ 24723][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2472.93       nan
+[ 24839][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17390.67       nan
+[ 24944][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5918.13       nan
+[ 25047][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8610.26       nan
+[ 25151][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18374.49       nan
+[ 25258][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -462.75       nan
+[ 25363][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5469.00       nan
+[ 25468][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3554.67       nan
+[ 25574][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17489.64       nan
+[ 25679][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11532.28       nan
+[ 25784][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -337.57       nan
+[ 25889][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18788.65       nan
+[ 25994][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3534.90       nan
+[ 26099][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16368.35       nan
+[ 26204][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9190.35       nan
+[ 26309][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10438.36       nan
+[ 26414][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19967.95       nan
+[ 26520][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9167.41       nan
+[ 26626][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9136.72       nan
+[ 26729][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7396.21       nan
+[ 26836][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10770.35       nan
+[ 26939][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18379.38       nan
+[ 27044][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -740.41       nan
+[ 27147][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -798.70       nan
+[ 27252][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4105.05       nan
+[ 27356][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7868.68       nan
+[ 27460][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17149.98       nan
+[ 27564][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12685.99       nan
+[ 27667][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4518.63       nan
+[ 27772][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10907.78       nan
+[ 27879][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5754.29       nan
+[ 27983][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19737.02       nan
+[ 28087][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16488.63       nan
+[ 28192][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16013.03       nan
+[ 28297][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9455.72       nan
+[ 28402][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5070.73       nan
+[ 28507][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1384.19       nan
+[ 28611][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16895.73       nan
+[ 28715][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18684.66       nan
+[ 28819][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18056.38       nan
+[ 28923][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2839.16       nan
+[ 29027][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17744.50       nan
+[ 29136][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5568.38       nan
+[ 29241][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9192.22       nan
+[ 29345][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10544.16       nan
+[ 29449][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5548.95       nan
+[ 29554][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8089.68       nan
+[ 29659][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9265.62       nan
+[ 29765][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14707.52       nan
+[ 29868][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17084.46       nan
+[ 29971][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8969.32       nan
+[ 30074][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18320.83       nan
+[ 30179][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17839.23       nan
+[ 30284][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10942.10       nan
+[ 30389][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7701.09       nan
+[ 30497][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7643.92       nan
+[ 30601][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4401.03       nan
+[ 30706][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4237.17       nan
+[ 30811][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15362.94       nan
+[ 30916][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13420.95       nan
+[ 31020][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5367.36       nan
+[ 31127][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18209.85       nan
+[ 31231][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11544.23       nan
+[ 31336][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1015.28       nan
+[ 31441][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16389.81       nan
+[ 31546][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10407.67       nan
+[ 31650][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18227.16       nan
+[ 31757][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12526.02       nan
+[ 31862][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15864.63       nan
+[ 31966][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1037.93       nan
+[ 32069][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17675.07       nan
+[ 32174][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1630.03       nan
+[ 32279][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10420.04       nan
+[ 32386][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18929.16       nan
+[ 32491][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11505.12       nan
+[ 32596][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19216.98       nan
+[ 32701][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7411.11       nan
+[ 32806][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11615.80       nan
+[ 32910][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5074.83       nan
+[ 33017][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1616.71       nan
+[ 33120][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9664.22       nan
+[ 33224][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16897.32       nan
+[ 33328][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18774.94       nan
+[ 33433][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2757.15       nan
+[ 33538][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13092.86       nan
+[ 33644][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7177.18       nan
+[ 33748][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18766.64       nan
+[ 33853][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2286.55       nan
+[ 33958][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6819.45       nan
+[ 34063][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18895.60       nan
+[ 34169][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9601.68       nan
+[ 34272][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13349.50       nan
+[ 34379][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1314.01       nan
+[ 34484][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12914.67       nan
+[ 34588][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17489.88       nan
+[ 34693][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11545.88       nan
+[ 34798][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1109.22       nan
+[ 34903][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1298.55       nan
+[ 35010][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12037.94       nan
+[ 35114][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8599.91       nan
+[ 35218][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17786.31       nan
+[ 35323][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7940.29       nan
+[ 35427][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -791.52       nan
+[ 35531][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3692.61       nan
+[ 35638][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4885.44       nan
+[ 35743][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11284.82       nan
+[ 35848][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6712.28       nan
+[ 35953][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12810.21       nan
+[ 36058][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11560.51       nan
+[ 36164][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1934.82       nan
+[ 36271][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7286.57       nan
+[ 36374][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4551.79       nan
+[ 36479][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12788.36       nan
+[ 36582][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10325.21       nan
+[ 36687][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13549.78       nan
+[ 36791][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12674.75       nan
+[ 36899][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3880.86       nan
+[ 37003][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15572.43       nan
+[ 37106][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4883.70       nan
+[ 37211][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11195.38       nan
+[ 37315][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1648.19       nan
+[ 37418][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11449.93       nan
+[ 37525][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16086.58       nan
+[ 37628][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13627.78       nan
+[ 37732][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17099.29       nan
+[ 37837][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9811.18       nan
+[ 37941][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4813.10       nan
+[ 38045][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7190.64       nan
+[ 38150][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19530.18       nan
+[ 38257][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4756.55       nan
+[ 38364][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3983.01       nan
+[ 38470][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -946.32       nan
+[ 38575][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12478.53       nan
+[ 38680][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13171.25       nan
+[ 38785][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11623.79       nan
+[ 38892][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5528.66       nan
+[ 38996][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6939.27       nan
+[ 39101][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5271.96       nan
+[ 39206][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12798.33       nan
+[ 39310][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10890.78       nan
+[ 39416][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4790.60       nan
+[ 39523][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5914.45       nan
+[ 39628][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8402.33       nan
+[ 39733][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6579.76       nan
+[ 39838][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5299.90       nan
+[ 39943][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14383.23       nan
+[ 40048][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19109.95       nan
+[ 40154][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1340.01       nan
+[ 40258][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14389.56       nan
+[ 40362][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19469.23       nan
+[ 40467][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1298.91       nan
+[ 40570][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12058.00       nan
+[ 40674][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9737.65       nan
+[ 40779][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -642.30       nan
+[ 40884][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15653.69       nan
+[ 40989][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9493.34       nan
+[ 41094][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7204.61       nan
+[ 41199][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      97.58       nan
+[ 41302][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14526.57       nan
+[ 41411][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6820.46       nan
+[ 41513][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18953.18       nan
+[ 41616][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12867.83       nan
+[ 41721][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14833.35       nan
+[ 41826][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3801.58       nan
+[ 41931][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11075.24       nan
+[ 42039][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15253.51       nan
+[ 42146][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7214.31       nan
+[ 42250][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -452.75       nan
+[ 42355][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4901.89       nan
+[ 42460][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12227.58       nan
+[ 42567][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19356.88       nan
+[ 42670][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15346.34       nan
+[ 42774][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12479.62       nan
+[ 42878][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13233.14       nan
+[ 42983][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15134.30       nan
+[ 43088][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -452.00       nan
+[ 43193][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4859.82       nan
+[ 43298][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9841.16       nan
+[ 43403][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6513.54       nan
+[ 43507][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1543.45       nan
+[ 43611][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5509.23       nan
+[ 43719][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5837.08       nan
+[ 43822][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4013.33       nan
+[ 43925][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2666.05       nan
+[ 44029][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7925.57       nan
+[ 44133][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      43.16       nan
+[ 44237][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17613.41       nan
+[ 44341][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18553.06       nan
+[ 44445][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10592.04       nan
+[ 44550][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8265.02       nan
+[ 44655][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19211.47       nan
+[ 44758][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7098.49       nan
+[ 44863][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14303.45       nan
+[ 44968][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14584.85       nan
+[ 45071][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10126.29       nan
+[ 45176][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2267.02       nan
+[ 45280][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5711.70       nan
+[ 45387][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17321.71       nan
+[ 45492][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2007.29       nan
+[ 45597][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11398.94       nan
+[ 45700][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13194.20       nan
+[ 45806][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12925.43       nan
+[ 45914][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18100.39       nan
+[ 46017][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5335.65       nan
+[ 46121][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16411.31       nan
+[ 46226][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11627.23       nan
+[ 46331][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5723.52       nan
+[ 46436][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17991.88       nan
+[ 46540][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19600.78       nan
+[ 46646][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8761.18       nan
+[ 46749][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6514.92       nan
+[ 46852][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1621.94       nan
+[ 46957][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9961.00       nan
+[ 47061][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13311.52       nan
+[ 47165][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19580.33       nan
+[ 47273][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7601.02       nan
+[ 47378][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1967.82       nan
+[ 47481][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9160.10       nan
+[ 47586][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8722.35       nan
+[ 47691][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4312.15       nan
+[ 47794][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19615.88       nan
+[ 47902][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9617.23       nan
+[ 48007][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14231.83       nan
+[ 48111][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10522.30       nan
+[ 48214][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4309.33       nan
+[ 48319][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19456.14       nan
+[ 48423][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -556.86       nan
+[ 48528][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10807.77       nan
+[ 48633][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -81.82       nan
+[ 48738][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4282.09       nan
+[ 48841][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17910.78       nan
+[ 48944][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15000.25       nan
+[ 49047][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13268.59       nan
+[ 49154][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17145.19       nan
+[ 49259][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12414.71       nan
+[ 49363][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9550.87       nan
+[ 49468][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10467.79       nan
+[ 49572][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1217.49       nan
+[ 49677][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7440.13       nan
+[ 49787][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13261.72       nan
+[ 49892][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16755.55       nan
+[ 49998][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10733.41       nan
+[ 50103][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16283.99       nan
+[ 50206][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4405.27       nan
+[ 50311][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4477.94       nan
+[ 50416][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8599.85       nan
+[ 50525][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17783.87       nan
+[ 50630][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7801.66       nan
+[ 50734][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13348.67       nan
+[ 50838][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1267.12       nan
+[ 50944][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10255.13       nan
+[ 51047][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9574.96       nan
+[ 51153][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11834.24       nan
+[ 51257][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17465.59       nan
+[ 51362][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10168.06       nan
+[ 51467][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4635.87       nan
+[ 51572][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17557.93       nan
+[ 51677][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15405.85       nan
+[ 51785][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15855.08       nan
+[ 51888][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -496.26       nan
+[ 51994][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7370.17       nan
+[ 52097][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9293.65       nan
+[ 52202][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16297.89       nan
+[ 52307][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5193.96       nan
+[ 52415][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8373.92       nan
+[ 52520][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4968.73       nan
+[ 52623][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16018.43       nan
+[ 52728][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9762.25       nan
+[ 52831][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2037.64       nan
+[ 52937][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13120.54       nan
+[ 53043][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8747.50       nan
+[ 53147][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5738.59       nan
+[ 53252][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18846.82       nan
+[ 53357][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6834.60       nan
+[ 53461][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19754.97       nan
+[ 53565][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17506.90       nan
+[ 53670][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12511.75       nan
+[ 53778][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15055.48       nan
+[ 53882][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16401.32       nan
+[ 53987][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11060.44       nan
+[ 54094][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14414.18       nan
+[ 54200][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -445.36       nan
+[ 54305][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4482.71       nan
+[ 54414][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8870.55       nan
+[ 54518][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12718.64       nan
+[ 54623][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6370.90       nan
+[ 54727][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13872.57       nan
+[ 54832][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10564.23       nan
+[ 54937][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6687.91       nan
+[ 55045][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11434.09       nan
+[ 55150][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15188.47       nan
+[ 55253][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3524.84       nan
+[ 55358][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15797.89       nan
+[ 55463][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17672.87       nan
+[ 55568][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1505.43       nan
+[ 55677][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3352.22       nan
+[ 55782][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6006.63       nan
+[ 55887][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13630.81       nan
+[ 55992][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17271.32       nan
+[ 56097][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19569.10       nan
+[ 56202][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6963.77       nan
+[ 56307][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6661.91       nan
+[ 56411][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9959.44       nan
+[ 56516][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13223.06       nan
+[ 56621][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14562.63       nan
+[ 56724][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8866.15       nan
+[ 56827][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12469.16       nan
+[ 56934][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12639.55       nan
+[ 57039][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1884.54       nan
+[ 57143][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4436.37       nan
+[ 57248][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6242.03       nan
+[ 57352][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6562.76       nan
+[ 57457][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4335.23       nan
+[ 57564][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -504.88       nan
+[ 57669][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7859.21       nan
+[ 57774][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16613.02       nan
+[ 57877][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2648.63       nan
+[ 57982][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6937.43       nan
+[ 58087][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5167.40       nan
+[ 58191][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6867.53       nan
+[ 58296][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1202.65       nan
+[ 58402][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6597.95       nan
+[ 58507][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6331.34       nan
+[ 58611][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11629.06       nan
+[ 58715][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5827.15       nan
+[ 58819][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3450.09       nan
+[ 58926][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11557.87       nan
+[ 59029][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1789.20       nan
+[ 59134][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19448.78       nan
+[ 59240][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -138.87       nan
+[ 59344][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7518.04       nan
+[ 59449][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17680.98       nan
+[ 59556][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1965.85       nan
+[ 59660][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9048.59       nan
+[ 59764][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2397.48       nan
+[ 59867][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13111.44       nan
+[ 59971][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8231.29       nan
+[ 60076][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17298.30       nan
+[ 60183][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -679.07       nan
+[ 60288][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17739.42       nan
+[ 60391][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5280.59       nan
+[ 60497][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13288.04       nan
+[ 60600][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18248.46       nan
+[ 60705][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13734.29       nan
+[ 60812][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2720.36       nan
+[ 60915][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11006.29       nan
+[ 61019][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11342.73       nan
+[ 61124][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10005.92       nan
+[ 61227][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15859.45       nan
+[ 61333][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -744.48       nan
+[ 61439][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1029.57       nan
+[ 61544][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17200.87       nan
+[ 61647][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15572.68       nan
+[ 61750][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4898.38       nan
+[ 61855][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12027.95       nan
+[ 61960][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8033.08       nan
+[ 62065][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6055.60       nan
+[ 62173][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16408.29       nan
+[ 62278][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11455.62       nan
+[ 62382][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16409.73       nan
+[ 62485][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11537.72       nan
+[ 62588][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -646.21       nan
+[ 62693][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15875.79       nan
+[ 62800][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1670.94       nan
+[ 62904][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12740.60       nan
+[ 63008][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7616.30       nan
+[ 63113][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2834.78       nan
+[ 63218][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17496.20       nan
+[ 63323][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11904.64       nan
+[ 63431][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1039.00       nan
+[ 63535][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17735.88       nan
+[ 63638][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5079.96       nan
+[ 63742][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1907.52       nan
+[ 63846][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5740.11       nan
+[ 63951][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18932.93       nan
+[ 64057][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11719.07       nan
+[ 64161][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10932.93       nan
+[ 64265][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7181.41       nan
+[ 64370][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19007.10       nan
+[ 64475][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15926.43       nan
+[ 64579][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4543.64       nan
+[ 64687][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12326.66       nan
+[ 64794][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4556.82       nan
+[ 64899][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13074.41       nan
+[ 65004][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6130.88       nan
+[ 65109][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -258.32       nan
+[ 65214][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14293.76       nan
+[ 65321][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14035.35       nan
+[ 65426][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19797.65       nan
+[ 65531][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19927.93       nan
+[ 65635][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6897.85       nan
+[ 65738][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2922.64       nan
+[ 65843][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2059.72       nan
+[ 65951][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14373.34       nan
+[ 66059][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18549.36       nan
+[ 66164][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10381.88       nan
+[ 66267][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16764.36       nan
+[ 66372][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11232.83       nan
+[ 66477][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3772.39       nan
+[ 66583][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9419.74       nan
+[ 66690][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3029.91       nan
+[ 66793][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8144.21       nan
+[ 66898][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12358.65       nan
+[ 67003][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6371.22       nan
+[ 67108][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13891.27       nan
+[ 67213][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11625.18       nan
+[ 67320][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5607.08       nan
+[ 67425][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11387.16       nan
+[ 67528][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12526.16       nan
+[ 67633][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15872.64       nan
+[ 67737][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1492.74       nan
+[ 67840][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2632.45       nan
+[ 67947][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6019.58       nan
+[ 68051][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14365.15       nan
+[ 68155][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18084.77       nan
+[ 68259][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4449.24       nan
+[ 68362][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6972.14       nan
+[ 68465][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7136.46       nan
+[ 68572][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -16457.29       nan
+[ 68677][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14235.27       nan
+[ 68783][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10717.29       nan
+[ 68886][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15369.61       nan
+[ 68990][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13799.76       nan
+[ 69095][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6434.38       nan
+[ 69203][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17473.81       nan
+[ 69308][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10634.47       nan
+[ 69413][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10671.87       nan
+[ 69518][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12793.32       nan
+[ 69623][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10606.66       nan
+[ 69729][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9094.64       nan
+[ 69835][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5009.32       nan
+[ 69940][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18321.11       nan
+[ 70045][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17855.11       nan
+[ 70149][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11842.93       nan
+[ 70254][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17958.64       nan
+[ 70359][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17715.41       nan
+[ 70466][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3918.48       nan
+[ 70572][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17705.91       nan
+[ 70676][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3379.49       nan
+[ 70779][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7553.15       nan
+[ 70886][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19672.60       nan
+[ 70989][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12834.59       nan
+[ 71094][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12947.48       nan
+[ 71202][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19350.95       nan
+[ 71307][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -15010.10       nan
+[ 71412][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13827.34       nan
+[ 71516][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7998.91       nan
+[ 71621][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4117.05       nan
+[ 71726][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8549.46       nan
+[ 71834][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14925.85       nan
+[ 71940][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -9048.39       nan
+[ 72043][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2385.73       nan
+[ 72148][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12445.10       nan
+[ 72253][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11275.03       nan
+[ 72358][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6165.99       nan
+[ 72467][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2249.87       nan
+[ 72571][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4738.78       nan
+[ 72676][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2975.14       nan
+[ 72781][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5037.94       nan
+[ 72886][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19944.27       nan
+[ 72992][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -7824.47       nan
+[ 73098][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14642.60       nan
+[ 73203][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13402.03       nan
+[ 73307][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -4294.32       nan
+[ 73412][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18604.48       nan
+[ 73515][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13508.51       nan
+[ 73620][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10334.02       nan
+[ 73727][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -14049.58       nan
+[ 73833][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -184.74       nan
+[ 73937][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -10120.14       nan
+[ 74044][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -1917.94       nan
+[ 74150][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -6330.76       nan
+[ 74254][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -11595.91       nan
+[ 74360][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -3946.89       nan
+[ 74465][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -19317.50       nan
+[ 74569][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13112.67       nan
+[ 74672][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8300.75       nan
+[ 74777][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -817.94       nan
+[ 74882][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -5196.66       nan
+[ 74988][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -8527.07       nan
+[ 75093][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -13655.48       nan
+[ 75199][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -18670.29       nan
+[ 75304][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17241.36       nan
+[ 75409][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -17869.41       nan
+[ 75512][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -12653.90       nan
+[ 75617][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+0.00      -2698.43       nan
+[ 75724][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error
